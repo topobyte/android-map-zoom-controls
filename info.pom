@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Android Map Zoom Controls</name>
+  <description>Library for managing zoom controls on interactive views such as maps</description>
+  <url>https://github.com/topobyte/android-map-zoom-controls</url>
+</project>
