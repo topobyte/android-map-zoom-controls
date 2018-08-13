@@ -15,7 +15,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with android-map-zoom-controls. If not, see <http://www.gnu.org/licenses/>.
 
-package de.topobyte.android.maps.utils.events;
+package de.topobyte.android.maps.utils;
 
 import android.os.Handler;
 import android.os.Message;
